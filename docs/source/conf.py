@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'protocoloANM2'
+project = 'protocoloanm2'
 copyright = '2019, ANM'
 author = 'ANM'
 
